@@ -1,0 +1,2 @@
+(this.webpackJsonpminergame=this.webpackJsonpminergame||[]).push([[0],{9:function(e,c,t){"use strict";t.r(c);var n=t(1),r=t.n(n),s=t(3),i=t.n(s),j=t(0);var a=()=>Object(j.jsx)("div",{children:Object(j.jsx)("h1",{children:"\u77ff\u5de5\u6e38\u620f"})});var d=()=>Object(j.jsx)("div",{className:"App",children:Object(j.jsx)(a,{})});i.a.render(Object(j.jsx)(r.a.StrictMode,{children:Object(j.jsx)(d,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.cba2e076.chunk.js.map
